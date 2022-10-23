@@ -1,0 +1,26 @@
+@media screen and (max-width: 1600px) {
+  #loader3 {
+    visibility: collapse;
+  }
+  #loader6 {
+    visibility: collapse;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  #loader1 {
+    visibility: collapse;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  #loader2 {
+    visibility: collapse;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #loader1 {
+    visibility: collapse;
+  }
+}
